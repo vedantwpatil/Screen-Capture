@@ -1,0 +1,9 @@
+/Users/vedantpatil/Library/CloudStorage/OneDrive-DrexelUniversity/Documents/cs/personal/projects/rust/Screen-Capture/target/debug/deps/libcore_graphics_types-5d41d384fb418d2e.rmeta: /Users/vedantpatil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/core-graphics-types-0.1.3/src/lib.rs /Users/vedantpatil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/core-graphics-types-0.1.3/src/base.rs /Users/vedantpatil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/core-graphics-types-0.1.3/src/geometry.rs
+
+/Users/vedantpatil/Library/CloudStorage/OneDrive-DrexelUniversity/Documents/cs/personal/projects/rust/Screen-Capture/target/debug/deps/libcore_graphics_types-5d41d384fb418d2e.rlib: /Users/vedantpatil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/core-graphics-types-0.1.3/src/lib.rs /Users/vedantpatil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/core-graphics-types-0.1.3/src/base.rs /Users/vedantpatil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/core-graphics-types-0.1.3/src/geometry.rs
+
+/Users/vedantpatil/Library/CloudStorage/OneDrive-DrexelUniversity/Documents/cs/personal/projects/rust/Screen-Capture/target/debug/deps/core_graphics_types-5d41d384fb418d2e.d: /Users/vedantpatil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/core-graphics-types-0.1.3/src/lib.rs /Users/vedantpatil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/core-graphics-types-0.1.3/src/base.rs /Users/vedantpatil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/core-graphics-types-0.1.3/src/geometry.rs
+
+/Users/vedantpatil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/core-graphics-types-0.1.3/src/lib.rs:
+/Users/vedantpatil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/core-graphics-types-0.1.3/src/base.rs:
+/Users/vedantpatil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/core-graphics-types-0.1.3/src/geometry.rs:

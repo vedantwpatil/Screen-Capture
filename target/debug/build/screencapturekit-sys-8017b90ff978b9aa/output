@@ -1,0 +1,8 @@
+cargo:rustc-link-lib=framework=CoreFoundation
+cargo:rustc-link-lib=framework=CoreMedia
+cargo:rustc-link-lib=framework=CoreVideo
+cargo:rustc-link-lib=framework=Foundation
+cargo:rustc-link-lib=framework=CoreGraphics
+cargo:rustc-link-lib=framework=CoreImage
+cargo:rustc-link-lib=framework=ImageIO
+cargo:rustc-link-lib=framework=ScreenCaptureKit

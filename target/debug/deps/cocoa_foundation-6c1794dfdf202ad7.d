@@ -1,0 +1,9 @@
+/Users/vedantpatil/Library/CloudStorage/OneDrive-DrexelUniversity/Documents/cs/personal/projects/rust/Screen-Capture/target/debug/deps/libcocoa_foundation-6c1794dfdf202ad7.rmeta: /Users/vedantpatil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cocoa-foundation-0.1.2/src/lib.rs /Users/vedantpatil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cocoa-foundation-0.1.2/src/base.rs /Users/vedantpatil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cocoa-foundation-0.1.2/src/foundation.rs
+
+/Users/vedantpatil/Library/CloudStorage/OneDrive-DrexelUniversity/Documents/cs/personal/projects/rust/Screen-Capture/target/debug/deps/libcocoa_foundation-6c1794dfdf202ad7.rlib: /Users/vedantpatil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cocoa-foundation-0.1.2/src/lib.rs /Users/vedantpatil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cocoa-foundation-0.1.2/src/base.rs /Users/vedantpatil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cocoa-foundation-0.1.2/src/foundation.rs
+
+/Users/vedantpatil/Library/CloudStorage/OneDrive-DrexelUniversity/Documents/cs/personal/projects/rust/Screen-Capture/target/debug/deps/cocoa_foundation-6c1794dfdf202ad7.d: /Users/vedantpatil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cocoa-foundation-0.1.2/src/lib.rs /Users/vedantpatil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cocoa-foundation-0.1.2/src/base.rs /Users/vedantpatil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cocoa-foundation-0.1.2/src/foundation.rs
+
+/Users/vedantpatil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cocoa-foundation-0.1.2/src/lib.rs:
+/Users/vedantpatil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cocoa-foundation-0.1.2/src/base.rs:
+/Users/vedantpatil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cocoa-foundation-0.1.2/src/foundation.rs:
